@@ -9,3 +9,5 @@ Desktop.ini
 *.db
 ._*
 *.pyc
+*.sqlite3
+db.*
