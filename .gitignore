@@ -1,0 +1,11 @@
+.*
+!.gitignore
+.venv
+venv
+.vscode
+.DS_Store
+Desktop.ini
+*.ini
+*.db
+._*
+*.pyc
